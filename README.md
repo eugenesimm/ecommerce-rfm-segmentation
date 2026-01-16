@@ -1,4 +1,5 @@
-**📊 Hybrid Customer Segmentation & Revenue Analysis**
+# 📊 Hybrid Customer Segmentation & Revenue Analysis
+
 Olist E-commerce Dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Overview
