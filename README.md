@@ -6,7 +6,7 @@ Olist E-commerce Dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/b
 This project analyzes customer purchasing behavior to support revenue optimization through customer segmentation and trend analysis.  
 It combines exploratory clustering with rule-based RFM segmentation to balance analytical insight and business actionability.
 
-## Goal
+## Business Goal
 Provide a concise, executive-level overview of customer segments to support data-driven marketing and retention decisions.
 
 ## Approach
