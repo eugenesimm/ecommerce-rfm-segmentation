@@ -28,7 +28,7 @@ with delivered_orders as(
 )
 select
 	customer_unique_id,
-	max(order_date) as last_order_date,
+	min(order_date) as first_order_date,
 	(r.ref_date - max(order_date)) AS recency_days,
 	count(distinct(order_id)) as frequency,
 	sum(order_revenue) as monetary
