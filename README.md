@@ -45,3 +45,6 @@ Provide a concise, executive-level overview of customer segments to support data
 
 ## Tools
 PostgreSQL, Python (pandas, scikit-learn), Power BI, KMeans, RFM Analysis
+
+<img width="2160" height="1798" alt="Dashboard 1 (2)" src="https://github.com/user-attachments/assets/01c852e9-6d50-4ed0-909f-0d3a2188f1c8" />
+
