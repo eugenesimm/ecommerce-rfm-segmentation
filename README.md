@@ -7,7 +7,7 @@ This project analyzes customer purchasing behavior to support revenue optimizati
 It combines exploratory clustering with rule-based RFM segmentation to balance analytical insight and business actionability.
 
 ## Business Goal
-Provide an executive-level diagnostic view of customer segments to identify revenue drivers, retention risks, and actionable opportunities for targeted marketing and customer lifecycle strategies.
+Deliver a comprehensive yet executive-focused dashboard that links customer segmentation, revenue trends, and cohort retention to support strategic marketing and retention decisions.
 
 ## Approach
 - Built customer-level RFM metrics using PostgreSQL SQL joins and aggregations  
