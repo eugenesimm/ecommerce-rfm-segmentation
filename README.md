@@ -44,8 +44,9 @@ Deliver a comprehensive yet executive-focused dashboard that links customer segm
 ## Tools
 PostgreSQL, Python (pandas, scikit-learn), Tableau, KMeans, RFM Analysis
 
-**Tableau Link:** https://public.tableau.com/views/CustomerRevenuePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Dashboard
+The full Tableau workbook can be accessed via [here](https://public.tableau.com/views/CustomerRevenuePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) or found directly in this repository.
+
 <img width="2160" height="1798" alt="Dashboard 1 (3)" src="https://github.com/user-attachments/assets/bf59c16f-e7f2-4c0c-83e1-963d1a225e6b" />
 
 
